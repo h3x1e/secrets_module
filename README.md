@@ -1,1 +1,1 @@
-SECRETS Projects from Online Course testing libsecret
+SECRETS Projects from Online Course.
