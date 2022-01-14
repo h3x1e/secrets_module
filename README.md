@@ -1,1 +1,1 @@
-SECRETS Projects from Online Course
+SECRETS Projects from Online Course.
